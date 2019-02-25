@@ -6,7 +6,7 @@ basic_settings:
 header_settings:
   logo_image: 
   logo_width: 200
-  overlay_opacity: 0.8
+  overlay_opacity: 0.5
 
 menu_settings:
   menu_items:
@@ -64,7 +64,7 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#999999'
   border_color: '#dddddd'
-  overlay_background_color: '#161B21'
+  overlay_background_color: '#000000'
   overlay_text_color: '#ffffff'
   error_color: '#D64541'
 
