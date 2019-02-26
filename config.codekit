@@ -1048,13 +1048,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/images\/favicon.png": {
+	"\/_site\/images\/favicon2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 8516,
-		"inputAbbreviatedPath": "\/_site\/images\/favicon.png",
-		"outputAbbreviatedPath": "\/_site\/images\/favicon.png",
+		"inputAbbreviatedPath": "\/_site\/images\/favicon2.png",
+		"outputAbbreviatedPath": "\/_site\/images\/favicon2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1625,13 +1625,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/favicon.png": {
+	"\/images\/favicon2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 8516,
-		"inputAbbreviatedPath": "\/images\/favicon.png",
-		"outputAbbreviatedPath": "\/images\/favicon.png",
+		"inputAbbreviatedPath": "\/images\/favicon2.png",
+		"outputAbbreviatedPath": "\/images\/favicon2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
