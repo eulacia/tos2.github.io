@@ -1,11 +1,11 @@
 basic_settings:
   site_title: townofSulaco
-  site_tagline: Domestic affairs.
+  site_tagline:
   favicon_image: /images/favicon2.png
 
 header_settings:
   logo_image: /images/tos/tos-logo-main.png
-  logo_width: 200
+  logo_width: 400
   overlay_opacity: 0.5
 
 menu_settings:
