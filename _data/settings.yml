@@ -4,7 +4,7 @@ basic_settings:
   favicon_image: /images/favicon2.png
 
 header_settings:
-  logo_image: 
+  logo_image: /images/tos/tos-logo-main.png
   logo_width: 200
   overlay_opacity: 0.5
 
