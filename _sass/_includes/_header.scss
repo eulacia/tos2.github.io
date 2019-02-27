@@ -172,6 +172,10 @@
 	@include mq(phonep) {
 		top: -20px;
 	}
+
+	@include mq(tabletp) {
+		top: -30px;
+	}
 }
 
 .menu__toggle__icon {
