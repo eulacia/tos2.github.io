@@ -93,7 +93,6 @@
 	max-width: 80%;
 
 	@include mq(tabletp) {
-		float: left;
 		max-width: 50%;
 	}
 }
@@ -160,7 +159,7 @@
 .menu__toggle {
 	position: absolute;
 	z-index: 100;
-	top: 0;
+	top: -30px;
 	right: 0;
 	cursor: pointer;
 	font-size: 15px;
@@ -168,6 +167,10 @@
 	
 	@include mq(tabletl) {
 		display: none;
+	}
+
+	@include mq(phonep) {
+		top: -20px;
 	}
 }
 
