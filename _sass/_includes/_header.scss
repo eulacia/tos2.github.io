@@ -9,7 +9,7 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	padding: 20px 20px;
+	padding: 40px 20px;
 
 	@include mq(tabletp) {
 		padding: 80px 40px;
@@ -159,7 +159,7 @@
 .menu__toggle {
 	position: absolute;
 	z-index: 100;
-	top: 0;
+	top: -30px;
 	right: 0;
 	cursor: pointer;
 	font-size: 15px;
