@@ -168,6 +168,10 @@
 	@include mq(tabletl) {
 		display: none;
 	}
+
+	@include mq(phonep) {
+		top: -20px;
+	}
 }
 
 .menu__toggle__icon {
