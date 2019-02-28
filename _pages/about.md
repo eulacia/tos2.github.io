@@ -2,10 +2,8 @@
 title: About townofSulaco
 subtitle: 
 description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/about.jpeg
+featured_image: /images/tos/about.jpeg
 ---
-
-![](/images/about.jpeg)
 
 ## Features
 
