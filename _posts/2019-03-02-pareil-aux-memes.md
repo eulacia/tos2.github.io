@@ -1,0 +1,37 @@
+
+---
+title: 'Pareil aux Mêmes'
+date: 2019-03-03 00:00:00
+featured_image: '/images/tos/posts/2019-03-02-pareil-aux-memes.jpeg'
+excerpt: E.M. Forster wrote this final, unsurpassable paragraph about watching your man sleeping.
+---
+
+![](/images/tos/posts/2019-03-02-pareil-aux-memes.jpeg)
+
+Le peu de choses que je sais, personne ne me l'a dit, comme toi j'imagine. Tu peux donc m'écouter d'une oreille seulement, car je ne t'apprendrai rien. La chanson, tu la connais.
+
+Septembre, je rentre dans un bar. Un bar avec une grosse clim et trop de miroirs. Le barman se penche pour prendre ma commande. Je lui demande de choisir pour moi. Il marque un temps d'hésitation, sourit et revient avec une bière blanche. Je croise les regards calculés d'une bonne dizaine de prédateurs musculeux, une meute d'amants rapides au coeur prisonnier des glaces. Le genre d'homme qui ne veut plus apprendre à aimer, qui se la joue fille facile désenchantée et souffre toujours en silence. Le genre d'homme vers lequel je tends. Alors j'avale cette bière d'un trait, histoire de manquer d'air pour mieux sentir mon coeur, tandis que George Michael s'époumone ad libitum dans les petites enceintes Bose vissées au plafond : *I miss my baby (baby please forget me not) (I want you to remember) I miss my baby...*
+
+
+Dans le miroir, entre deux visages, c'est le mien que je vois. Mon regard est étudié lui aussi, mes épaules sont trop musclées et même si je n'ai pas encore le coeur en hiver, je peux te dire qu'il pue l'automne. Je suis comme eux dans ce miroir, comme tous les hommes dans ce bar, j'attends patiemment de voir l'effet que je fais, tout en fredonnant *I miss my baby*.
+
+
+My baby, celui que j'ai, que j'ai eu, que j'espère, peu importe. C'est l'ange, le prince, l'amour, le soleil, c'est pareil. Je l'ai croisé dans le hall d'un hôtel cossu, au bras de son épouse, riant à faire trembler le lustre juste au-dessus de ma tête. Je l'ai vu allongé sur le sable, une main posée sur sa planche de surf, les yeux marrons, les cheveux clairs. Vu encore, en tenue de chasseur alpin, hésiter en trois desserts à la cafétéria d'une station de ski. Une autre fois, c'était un rouquin assis sur le capot de sa voiture, son jean moulant bleu pâle tranchait sur le rouge de la carrosserie. Il a mille visages et autant de prénoms, celui qui surgit, passe et jamais ne vient.
+
+
+Alors qu’une vague de dream instrumentale vient gentiment noyer la voix de George, on me demande si je sors souvent ici, d'où je viens, quel sport je pratique et si j'ai faim moi aussi. *Oui*, je réponds. *Alors on peut dîner ensemble ?* Et me voilà quelques minutes plus tard, marchant dans une petite rue animée, flanqué d'un ange de secours qui me ressemble et me rassure. Il a le crâne tondu, le biceps rebondi, une carte bleue, son baby lui manque probablement et nous échangerons nos prénoms entre le dessert et le café.
+
+
+L'ange a le profil de Peter Pan, je l'ai remarqué en sortant du restaurant. Nous sommes debout face à face, son front occupe tout le paysage, mes lèvres sont posées sur l'arête de son joli nez. Nous respirons, synchrones, parés au plongeon. Une dernière fois, l'air entre par nos narines et nous plongeons. Sous la surface, on se console comme on sait faire, on s'abandonne les yeux ouverts. Sur son menton, dans son cou, ma salive a des reflets d'argent. Je décide d'oublier qui je suis, pendant qu'il me rassure une heure encore. Quand il me mord, je le mords un peu plus fort, juste assez pour qu'il ferme enfin ses yeux bleu piscine. Mais rien de nouveau, rien d'étrange, vraiment. On gémit, on soupire, on transpire, dans le confort insidieux de l'autorepeat.
+
+
+En sortant dans la rue, je sens mon coeur qui s'éveille. C'est comme le feu sous la glace, c'est alarmant. Soudain, je me vois remonter les trois étages, reprendre Peter Pan dans mes bras et passer le reste de la nuit contre lui. Et pourquoi pas le reste de ma vie ? Après tout, je me dis, n'importe quel homme peut faire l'affaire, devenir ce baby mystère que je poursuis, le seul et unique mister que je miss, s'il y met du sien et moi du mien. Mais déjà je me ressaisi, l’idée se dissipe, je sors de ma poche le bout de papier sur lequel il a inscrit son numéro de téléphone, pour le froisser *(baby please)* et le jeter là, devant sa porte *(forget me not)*.
+
+
+L'hiver approche, disais-je.
+
+
+Hier, je te parlais des femmes parce que c'est plus facile, finalement. Elles au moins tu les observes, tu les découvres, tu les affrontes, elles te surprennent et tu la trouves, la petite étrangeté, la différence irréductible. Tandis que les hommes, quand tu les regardes, c'est toujours toi que tu vois. Distance zéro, angle nul, vas chercher le relief... Du coup, quand je suis de méchante humeur, je trouve que ça se résume à ça : un gay, c'est quelqu'un qui ne voit que lui, partout
+
+ 
+
