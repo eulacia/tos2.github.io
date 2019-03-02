@@ -1,11 +1,12 @@
 ---
 title: 'Pareil aux Mêmes'
 date: 2019-03-03 00:00:00
-featured_image: '/images/tos/posts/2019-03-02-pareil-aux-memes.jpeg'
+featured_image: '/images/tos/posts/20190302-pareil.jpeg'
 excerpt: E.M. Forster wrote this final, unsurpassable paragraph about watching your man sleeping.
 ---
 
-![](/images/tos/posts/2019-03-02-pareil-aux-memes.jpeg)
+![](/images/tos/posts/20190302-pareil.jpeg)
+	
 	<div class="footer__copyright">
 		<span>Words and photography © {{ 'now' | date: "%Y" }} hervé eulacia, except where indicated.</span>
 	</div>
