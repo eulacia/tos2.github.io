@@ -10,11 +10,11 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'central'
       url: '/'
-    - title: 'About'
+    - title: 'what it is'
       url: '/about'
-    - title: 'Contact'
+    - title: 'say hi'
       url: '/contact'
 
 grid_settings:
