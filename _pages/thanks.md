@@ -1,10 +1,8 @@
 ---
-title: Thank you
-subtitle: Your message was sent successfully.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+title: Done!
+subtitle: Your message was sent.
+description:
+featured_image: /images/tos/contact.jpeg
 ---
 
-![](/images/demo/about.jpg)
-
-Please note, this contact form is for demo purposes only and is not monitored. Please contact us [via our website](https://jekyllthemes.io) if you need support.
+![](/images/tos/contact.jpeg)
