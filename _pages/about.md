@@ -1,5 +1,5 @@
 ---
-title: What is townofSulaco?
+title: Where is the Town of Sulaco?
 subtitle: 
 description:
 featured_image: /images/tos/about.jpeg

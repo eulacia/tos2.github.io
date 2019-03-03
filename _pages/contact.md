@@ -1,5 +1,5 @@
 ---
-title: Say hi!
+title: Say hi?
 subtitle: 
 description: Ideas, questions or comments? Just want to say hi?
 featured_image: /images/tos/contact.jpeg
