@@ -60,7 +60,7 @@
 	margin-top: 60px;
 
 	@include mq(tabletl) {
-		padding-left: 40px;
+		padding-left: 0px;
 	}
 
 	@include mq(laptop) {
